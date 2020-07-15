@@ -1,0 +1,81 @@
+﻿Age Group,calc.ValueComma,Demographic,Gender,Hispanic,Name,Race,Value
+Missing,849,Gender,Missing,,Cases,,849
+Missing,"45,443",Gender,Female,,Cases,,45443
+Missing,"43,192",Gender,Male,,Cases,,43192
+Missing,11,Gender,Missing,,Deaths,,11
+Missing,719,Gender,Female,,Deaths,,719
+Missing,822,Gender,Male,,Deaths,,822
+Missing,,Gender,Missing,,Percent of Cases,,
+Missing,51%,Gender,Female,,Percent of Cases,,51%
+Missing,49%,Gender,Male,,Percent of Cases,,49%
+Missing,,Gender,Missing,,Percent of Deaths,,
+Missing,47%,Gender,Female,,Percent of Deaths,,47%
+Missing,53%,Gender,Male,,Percent of Deaths,,53%
+Missing,,Ethnicity,Missing,Missing,Percent of Cases,,
+Missing,44%,Ethnicity,Missing,Hispanic,Percent of Cases,,44%
+Missing,56%,Ethnicity,Missing,Non-Hispanic,Percent of Cases,,56%
+Missing,,Ethnicity,Missing,Missing,Percent of Deaths,,
+Missing,10%,Ethnicity,Missing,Hispanic,Percent of Deaths,,10%
+Missing,90%,Ethnicity,Missing,Non-Hispanic,Percent of Deaths,,90%
+Missing,"31,278",Ethnicity,Missing,Missing,Cases,,31278
+Missing,"25,735",Ethnicity,Missing,Hispanic,Cases,,25735
+Missing,"32,471",Ethnicity,Missing,Non-Hispanic,Cases,,32471
+Missing,108,Ethnicity,Missing,Missing,Deaths,,108
+Missing,148,Ethnicity,Missing,Hispanic,Deaths,,148
+Missing,"1,296",Ethnicity,Missing,Non-Hispanic,Deaths,,1296
+Missing,42,Age Group,Missing,,Cases,,42
+0-17,"9,661",Age Group,Missing,,Cases,,9661
+75+,"5,047",Age Group,Missing,,Cases,,5047
+50-64,"17,018",Age Group,Missing,,Cases,,17018
+25-49,"40,099",Age Group,Missing,,Cases,,40099
+18-24,"12,030",Age Group,Missing,,Cases,,12030
+65-74,"5,587",Age Group,Missing,,Cases,,5587
+Missing,0,Age Group,Missing,,Deaths,,0
+0-17,1,Age Group,Missing,,Deaths,,1
+75+,908,Age Group,Missing,,Deaths,,908
+50-64,243,Age Group,Missing,,Deaths,,243
+25-49,85,Age Group,Missing,,Deaths,,85
+18-24,2,Age Group,Missing,,Deaths,,2
+65-74,313,Age Group,Missing,,Deaths,,313
+Missing,,Age Group,Missing,,Percent of Cases,,
+0-17,11%,Age Group,Missing,,Percent of Cases,,11%
+75+,6%,Age Group,Missing,,Percent of Cases,,6%
+50-64,19%,Age Group,Missing,,Percent of Cases,,19%
+25-49,45%,Age Group,Missing,,Percent of Cases,,45%
+18-24,13%,Age Group,Missing,,Percent of Cases,,13%
+65-74,6%,Age Group,Missing,,Percent of Cases,,6%
+Missing,,Age Group,Missing,,Percent of Deaths,,
+0-17,0%,Age Group,Missing,,Percent of Deaths,,0%
+75+,59%,Age Group,Missing,,Percent of Deaths,,59%
+50-64,16%,Age Group,Missing,,Percent of Deaths,,16%
+25-49,5%,Age Group,Missing,,Percent of Deaths,,5%
+18-24,0%,Age Group,Missing,,Percent of Deaths,,0%
+65-74,20%,Age Group,Missing,,Percent of Deaths,,20%
+Missing,"14,431",Race,Missing,,Cases,Black or African American,14431
+Missing,678,Race,Missing,,Cases,American Indian Alaskan Native,678
+Missing,"1,158",Race,Missing,,Cases,Asian,1158
+Missing,191,Race,Missing,,Cases,Native Hawaiian or Pacific Islander,191
+Missing,"10,203",Race,Missing,,Cases,Other,10203
+Missing,"29,176",Race,Missing,,Cases,Missing,29176
+Missing,"33,647",Race,Missing,,Cases,White,33647
+Missing,490,Race,Missing,,Deaths,Black or African American,490
+Missing,21,Race,Missing,,Deaths,American Indian Alaskan Native,21
+Missing,22,Race,Missing,,Deaths,Asian,22
+Missing,3,Race,Missing,,Deaths,Native Hawaiian or Pacific Islander,3
+Missing,95,Race,Missing,,Deaths,Other,95
+Missing,57,Race,Missing,,Deaths,Missing,57
+Missing,864,Race,Missing,,Deaths,White,864
+Missing,24%,Race,Missing,,Percent of Cases,Black or African American,24%
+Missing,1%,Race,Missing,,Percent of Cases,American Indian Alaskan Native,1%
+Missing,2%,Race,Missing,,Percent of Cases,Asian,2%
+Missing,0%,Race,Missing,,Percent of Cases,Native Hawaiian or Pacific Islander,0%
+Missing,17%,Race,Missing,,Percent of Cases,Other,17%
+Missing,,Race,Missing,,Percent of Cases,Missing,
+Missing,56%,Race,Missing,,Percent of Cases,White,56%
+Missing,33%,Race,Missing,,Percent of Deaths,Black or African American,33%
+Missing,1%,Race,Missing,,Percent of Deaths,American Indian Alaskan Native,1%
+Missing,1%,Race,Missing,,Percent of Deaths,Asian,1%
+Missing,0%,Race,Missing,,Percent of Deaths,Native Hawaiian or Pacific Islander,0%
+Missing,6%,Race,Missing,,Percent of Deaths,Other,6%
+Missing,,Race,Missing,,Percent of Deaths,Missing,
+Missing,58%,Race,Missing,,Percent of Deaths,White,58%
