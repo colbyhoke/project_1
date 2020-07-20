@@ -1,0 +1,7 @@
+Hypotheses tested
+1. County risk factor (as risk factor increases, Covid Cases and deaths increase)
+2. Age (as age increases, Covid Cases and deaths increase)
+3. Race (as % nonwhite increases, Covid Cases and deaths increase)
+4. Income (as poverty rate increase, Covid Cases and deaths increase)
+5. Urban/Rural (as population density inceases, Covid Cases and deaths increase)
+6. Education (as % with HS education decreases, Covid Cases and deaths increase)
