@@ -17,7 +17,11 @@ Research Questions:
 
 Datasets:
 
-Community Resilience Estimate: https://www2.census.gov/data/experimental-data-products/community-resilience-estimat es/2020/ Covid Information: https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#27454960-ea1c-4b91-a0b6-0468bb4e6712 NC DHHS County Information: https://covid19.ncdhhs.gov/dashboard/about-data Government Crawled Covid-19 Data: http://coronavirusapi.com/getTimeSeriesJson/NC Government Census Datasets: data.census.gov
+Community Resilience Estimate: https://www2.census.gov/data/experimental-data-products/community-resilience-estimat es/2020/ 
+Covid Information: https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest#27454960-ea1c-4b91-a0b6-0468bb4e6712 
+NC DHHS County Information: https://covid19.ncdhhs.gov/dashboard/about-data Government 
+Crawled Covid-19 Data: http://coronavirusapi.com/getTimeSeriesJson/NC 
+Government Census Datasets: data.census.gov
 
 Task Breakdown:
 
