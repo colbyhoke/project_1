@@ -1,6 +1,4 @@
-# UNC Data Analytics Bootcamp
-# project_1
-# July 2020
+# UNC Data Analytics Bootcamp - Project 1 - July 2020
 
 Team #6
 
