@@ -18,19 +18,12 @@
 1. Is there a correlation between access to testing and cases of COVID-19?
 
 ## Hypotheses tested
-1. County risk factor
-As risk factors increase, COVID incidents increase
-1. Age
-As age increases, COVID incidents increase
-1. Race
-As % non-white increases, COVID incidents increase
-1. Income
-As poverty rate increases, COVID incidents increase
-1. Urban/Rural
-As population density increases, COVID incidents increase
-1. Education
-As % with high school education decreases, COVID incidents increase
-
+1. County risk factor - As risk factors increase, COVID incidents increase
+1. Age - As age increases, COVID incidents increase
+1. Race - As % non-white increases, COVID incidents increase
+1. Income - As poverty rate increases, COVID incidents increase
+1. Urban/Rural - As population density increases, COVID incidents increase
+1. Education - As % with high school education decreases, COVID incidents increase
 
 ## Data source:
 1. New York Times COVID-19 data repository
